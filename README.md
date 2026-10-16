@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/kniharikaa/Leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0076-minimum-window-substring](https://github.com/kniharikaa/Leetcode/tree/master/0076-minimum-window-substring) |
 ## Math
 |  |
 | ------- |
@@ -30,4 +31,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/kniharikaa/Leetcode/tree/master/0061-rotate-list) |
+## Hash Table
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/kniharikaa/Leetcode/tree/master/0076-minimum-window-substring) |
+## Sliding Window
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/kniharikaa/Leetcode/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->
