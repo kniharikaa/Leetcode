@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/kniharikaa/Leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0014-longest-common-prefix](https://github.com/kniharikaa/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0076-minimum-window-substring](https://github.com/kniharikaa/Leetcode/tree/master/0076-minimum-window-substring) |
 ## Math
 |  |
@@ -39,4 +40,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/kniharikaa/Leetcode/tree/master/0076-minimum-window-substring) |
+## Array
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/kniharikaa/Leetcode/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/kniharikaa/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
