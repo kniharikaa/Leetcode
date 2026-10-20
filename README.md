@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/kniharikaa/Leetcode/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/kniharikaa/Leetcode/tree/master/0069-sqrtx) |
 ## Binary Search
 |  |
@@ -44,8 +45,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/kniharikaa/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0048-rotate-image](https://github.com/kniharikaa/Leetcode/tree/master/0048-rotate-image) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/kniharikaa/Leetcode/tree/master/0014-longest-common-prefix) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/kniharikaa/Leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
