@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/kniharikaa/Leetcode/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/kniharikaa/Leetcode/tree/master/0061-rotate-list) |
 ## Hash Table
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/kniharikaa/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0027-remove-element](https://github.com/kniharikaa/Leetcode/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/kniharikaa/Leetcode/tree/master/0048-rotate-image) |
 ## Trie
 |  |
